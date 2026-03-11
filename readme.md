@@ -20,13 +20,16 @@ Meals:
 }
 ```
 
-joindan foydalangandadagi keladigan data:
+joindan foydalangandagi keladigan data:
 
 ```
 {
     "id": 1
     "name": "Osh"
-    description: ""
-    c_name: "Milliy Taomlar"
+    "description": ""
+    "c_name": "Milliy Taomlar"
 }
 ```
+
+<hr>
+Barcha SQL querylar <i>db/querys.sql</i> faylida yozilgan
